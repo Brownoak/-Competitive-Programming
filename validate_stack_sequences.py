@@ -9,6 +9,6 @@ class Solution:
                 i+= 1
                 stack.pop()
         if stack==[]:
-            return stack==[]
+            return True
         
     
